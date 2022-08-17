@@ -1,4 +1,4 @@
-### 21 dias de Codigo
+# 21 dias de Codigo
 ## @21diasdeCodigo - by Rockeatseat
 
 Este é um desafio proposto pela Rockeatseat para trabalhar o constante aprendizado e pratica por meio de desafios diarios de programação.
@@ -17,4 +17,4 @@ Este é um desafio proposto pela Rockeatseat para trabalhar o constante aprendiz
 
  7/21 -  desenvolva um contador
 
- # Os Proximos desafios serão lançados ao decorrer dos dias!
+ ### Os Proximos desafios serão lançados ao decorrer dos dias!
