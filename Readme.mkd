@@ -1,0 +1,20 @@
+### 21 dias de Codigo
+## @21diasdeCodigo - by Rockeatseat
+
+Este é um desafio proposto pela Rockeatseat para trabalhar o constante aprendizado e pratica por meio de desafios diarios de programação.
+
+ 1/21 - Criar um repositorio para armazenar os codigo desenvolvido durante os dias do desafio
+
+ 2/21 - Faça um hello world customizado com fontes,cores e imagens.
+
+ 3/21 - Crie um botão animado
+
+ 4/21 - Crie uma calculadora
+
+ 5/21 - Desenvolva um pagina customizada que exiga o erro 404
+
+ 6/21 - Crie um card com o efeito gassmorphism.
+
+ 7/21 -  desenvolva um contador
+
+ # Os Proximos desafios serão lançados ao decorrer dos dias!
