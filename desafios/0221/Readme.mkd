@@ -7,4 +7,4 @@ Este é um desafio proposto pela Rockeatseat para trabalhar o constante aprendiz
 
  2/21 - Faça um hello world customizado com fontes,cores e imagens.
 
- ![Resultado Desafio 02](/Resultado.png "hello world customizado com fontes,cores e imagens")
+ ![Resultado Desafio 02](./Resultado.png "hello world customizado com fontes,cores e imagens")
