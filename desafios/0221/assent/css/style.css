@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+}
+
+body{
+background-image: url(https://images.unsplash.com/photo-1526470608268-f674ce90ebd4);
+background-attachment: fixed;
+background-position: center;
+font-family: 'Silkscreen', cursive;
+font-size: 70px;
+
+
+}
+
+div{
+  background-color: rgb(141, 139, 134,0.5);
+  justify-items: center;
+  text-justify: auto ;
+}
+
+
+  
+h1{
+  text-align: center;
+  color: black;
+  
+}
+.Hello{
+
+  animation: slide 6s infinite;
+}
+
