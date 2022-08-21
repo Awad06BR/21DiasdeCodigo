@@ -1,0 +1,45 @@
+body{
+  display: flex;
+  flex-flow: row wrap;
+  align-content: center;
+  justify-content: center;
+}
+
+div{
+  width: 100%;
+  text-align: center;
+}
+
+.number-error{
+  background-color: #fff;
+  position: relative ;
+  font: 900 30vmin "Consolas";
+  letter-spacing: 5vmin;
+  
+  
+}
+
+.number-error::before{
+  background-color: #cbafed;
+  background-image: radial-gradient(closest-side at 50% 50%,#5e4d80 100%, rgba(0,0,0,0)),radial-gradient(closest-side at 50% 50%, #3d3267 100%,rgba(0,0,0,0));
+  background-repeat: repeat-x;
+  background-size: 40vmin 40vmin;
+  background-position: -100vmin 20vmin,100vmin -25vmin;
+  width: 100%;
+  height: 100%;
+  mix-blend-mode: screen;
+  -webkit-animation: moving 40s  infinite both;
+          animation: moving 40s  infinite both;
+  display: block;
+  position: absolute;
+  content: "";
+}
+
+
+
+.text-error{
+  font: 400 5vmin "Courgette";
+}
+.text-error span{
+  font-size: 10vmin;
+}
